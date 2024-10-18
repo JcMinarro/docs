@@ -21,7 +21,7 @@ There are [templates](https://forums.unraid.net/topic/124146-support-smartphonel
 
 ## Yunohost
 
-Firefly III is featured on [Yunohost](https://yunohost.org/#/app_firefly-iii).
+Firefly III is featured on [Yunohost](https://apps.yunohost.org/app/firefly-iii).
 
 ## Softaculous
 
